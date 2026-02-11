@@ -1,0 +1,8 @@
+{
+  "name": "SU - Premium Sudanese Excellence",
+  "description": "A prestigious Sudanese platform connecting elite clients with specialized experts in a royal, high-end environment.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
