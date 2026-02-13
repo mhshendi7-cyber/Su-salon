@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">su salon</string>
+    <string name="title_activity_main">su salon</string>
+    <string name="package_name">com.susalon.app</string>
+    <string name="custom_url_scheme">com.susalon.app</string>
+</resources>
